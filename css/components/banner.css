@@ -1,0 +1,18 @@
+.banner {
+  background-image: url(../../images/tarde.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+
+.banner h1 {
+  color: white;
+  /*text-shadow: 1px 1px rgb(50 50 50);*/
+}
+
+.banner p {
+  color: white;
+  opacity: 0.7;
+  font-size: 20px;
+  margin-bottom: 32px;
+}
